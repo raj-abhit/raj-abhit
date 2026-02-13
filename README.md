@@ -18,12 +18,12 @@ AI/ML Engineer specializing in Large Language Model (LLM) applications, Retrieva
 ---
 ## 🛠 Tech Stack
 
-**Languages:**-   Python, SQL  
-**LLM & Agentic AI:**-   LangChain, CrewAI, LangGraph, RAG, Prompt Engineering
-**Machine Learning:**-   Scikit-learn  
-**Deep Learning:**-   PyTorch, TensorFlow    
-**Frameworks:**-   FastAPI, Streamlit  
-**Tools:**-   Docker, Git, GitHub  
+**Languages:** Python, SQL  
+**LLM & Agentic AI:** LangChain, CrewAI, LangGraph, RAG, Prompt Engineering  
+**Machine Learning:** Scikit-learn  
+**Deep Learning:** PyTorch, TensorFlow  
+**Frameworks:** FastAPI, Streamlit  
+**Tools:** Docker, Git, GitHub  
 ---
 ## 🎯 Focus
 Building intelligent AI systems that combine deep learning, LLM orchestration, and scalable backend engineering to solve real-world domain problems.
