@@ -2,7 +2,7 @@
 
 AI/ML Engineer specializing in Large Language Model (LLM) applications, Retrieval-Augmented Generation (RAG) systems, and Agentic AI architectures. Experienced in building production-ready AI solutions using Transformers, FastAPI, and Docker, with a focus on scalable backend services and domain-specific intelligent systems.
 
-📍 Jalandhar, India  
+  
 📧 rajabhit867@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/abhit-raj12)  
 💻 [GitHub](https://github.com/raj-abhit)
